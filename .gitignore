@@ -9,6 +9,7 @@ _dump/
 
 ## Special Files
 *.sublime-build
+*.afdesign
 
 ## Stashes
 **/*-{stash-[0-9]}.*

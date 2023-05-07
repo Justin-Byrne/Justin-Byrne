@@ -24,5 +24,5 @@
 
 </span> -->
 
-| <a href="https://www.buymeacoffee.com/byrnesystems"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/buy-me-a-coffee-64.svg" width="22" /></a> | <a href="https://www.patreon.com/byrnesystems"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/patreon-64.svg" width="32" /></a> | <a href="https://github.com/sponsors/Justin-Byrne"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/devicons/github-original-64.svg" width="32" /></a> |
+| <a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/buy-me-a-coffee-64.svg" width="32" /></a> | <a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/patreon-64.svg" width="32" /></a> | <a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/github-sponsor-64.svg" width="32" /></a> |
 | :---: | :---: | :---: |

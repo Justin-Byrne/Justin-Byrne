@@ -24,5 +24,15 @@
 
 </span> -->
 
-| <a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/buy-me-a-coffee-64.svg" width="32" /></a> | <a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/patreon-64.svg" width="32" /></a> | <a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/github-sponsor-64.svg" width="32" /></a> |
-| :---: | :---: | :---: |
+<span>
+<a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/buy-me-a-coffee-button.png" width="32" /></a>
+
+<a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/patreon-button.png" width="32" /></a>
+
+<a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/github-sponsor-button.png" width="32" /></a>
+</span>
+
+<!-- [Buy Me a Coffee](https://www.buymeacoffee.com/byrnesystems)
+[Patreon](https://www.patreon.com/byrnesystems)
+[GitHub](https://github.com/sponsors/Justin-Byrne)
+ -->

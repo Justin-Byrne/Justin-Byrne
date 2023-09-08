@@ -1,8 +1,8 @@
 ![hmmm...](https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/temple_top.png)
 
-> "Expect the best, plan for the worst, and prepare to be surprised."
+> “A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.”
 >
-> &nbsp;&nbsp;&nbsp;&nbsp; ~ Denis Waitley
+> &nbsp;&nbsp;&nbsp;&nbsp; ~ Antoine de Saint-Exupery
 
 <div align="right">
 <a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/buy-me-a-coffee-button_trans.png" width="64" /></a>

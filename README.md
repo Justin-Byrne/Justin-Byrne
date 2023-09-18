@@ -9,3 +9,17 @@
 <a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/patreon-button_trans.png" width="64" /></a>
 <a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/github-sponsor-button_trans.png" width="64" /></a>
 </div>
+
+<details>
+
+<summary><b>Note:</b> attribute declarations for <code>id</code></summary>
+
+>- `id` : `<string>` :eight_spoked_asterisk: `required`
+>   - `<string>`
+>     - Element.`Identifier`
+>     - CSS Selector
+>     - XPath
+
+</details>
+
+<br>

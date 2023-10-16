@@ -1,10 +1,16 @@
-<svg id="patreon-logo" width="70px" viewBox="0 0 569 546" version="1.1" xmlns="http://www.w3.org/2000/svg">
-
-	<title>Patreon logo</title>
-
-	<g>
-		<circle data-color="1" id="Oval" cx="362.589996" cy="204.589996" r="204.589996" style="fill: #ff424d"></circle>
-		<rect data-color="2" id="Rectangle" x="0" y="0" width="100" height="545.799988"></rect>
-	</g>
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer1">
+    </g>
+    <g transform="matrix(0.801475,0,0,0.801475,12.6366,11.8712)">
+        <g id="Oval" transform="matrix(1.7165,0,0,1.7165,4.20074,-403.544)">
+            <circle cx="44.607" cy="264.584" r="25.169" style="fill:rgb(255,66,77);"/>
+            <path d="M44.607,234.872C28.208,234.872 14.895,248.185 14.895,264.584C14.895,280.983 28.208,294.296 44.607,294.296C61.006,294.296 74.319,280.983 74.319,264.584C74.319,248.185 61.006,234.872 44.607,234.872ZM44.607,239.415C58.498,239.415 69.776,250.693 69.776,264.584C69.776,278.475 58.498,289.753 44.607,289.753C30.716,289.753 19.438,278.475 19.438,264.584C19.438,250.693 30.716,239.415 44.607,239.415Z" style="fill:rgb(254,255,255);"/>
+        </g>
+        <g id="Rectangle" transform="matrix(1.7165,0,0,1.7165,4.20074,-403.544)">
+            <rect x="0" y="239.415" width="12.302" height="67.146"/>
+            <path d="M16.845,239.415C16.845,236.906 14.811,234.872 12.302,234.872L0,234.872C-2.509,234.872 -4.543,236.906 -4.543,239.415L-4.543,306.561C-4.543,309.07 -2.509,311.104 -0,311.104L12.302,311.104C14.811,311.104 16.845,309.07 16.845,306.561L16.845,239.415ZM12.302,239.415L0,239.415L0,306.561L12.302,306.561L12.302,239.415Z" style="fill:rgb(254,255,255);"/>
+        </g>
+    </g>
 </svg>

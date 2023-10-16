@@ -5,9 +5,9 @@
 > &nbsp;&nbsp;&nbsp;&nbsp; ~ Antoine de Saint-Exupery
 
 <div align="right">
-<a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Coffee.svg" width="64" /></a>
-<a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Patreon.svg" width="64" /></a>
-<a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Github.svg" width="64" /></a>
+<a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Coffee.svg" width="48" /></a>
+<a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Patreon.svg" width="48" /></a>
+<a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Github.svg" width="48" /></a>
 </div>
 
 <details>

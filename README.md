@@ -1,13 +1,13 @@
-![hmmm...](https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/temple_top.png)
+![hmmm...](https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/misc/temple_top.png)
 
 > “A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.”
 >
 > &nbsp;&nbsp;&nbsp;&nbsp; ~ Antoine de Saint-Exupery
 
 <div align="right">
-<a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/Coffee.svg" width="64" /></a>
-<a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/Patreon.svg" width="64" /></a>
-<a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/Github.svg" width="64" /></a>
+<a href="https://www.buymeacoffee.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Coffee.svg" width="64" /></a>
+<a href="https://www.patreon.com/byrnesystems" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Patreon.svg" width="64" /></a>
+<a href="https://github.com/sponsors/Justin-Byrne" target="_new"><img src="https://github.com/Justin-Byrne/Justin-Byrne/blob/main/images/funds/Github.svg" width="64" /></a>
 </div>
 
 <details>
